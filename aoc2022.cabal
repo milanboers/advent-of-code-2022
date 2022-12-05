@@ -33,4 +33,5 @@ executable aoc2022-exe
   build-depends:
       base >=4.7 && <5
     , split
+    , vector
   default-language: Haskell2010
