@@ -24,6 +24,7 @@ dependencies:
 - split
 - vector
 - matrix
+- containers
 
 ghc-options:
 - -Wall
