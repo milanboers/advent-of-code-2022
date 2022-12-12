@@ -34,6 +34,7 @@ executable aoc2022-exe
       base >=4.7 && <5
     , containers
     , matrix
+    , search-algorithms
     , split
     , vector
   default-language: Haskell2010
